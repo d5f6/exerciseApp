@@ -1,6 +1,6 @@
 # Introduction
 
-A simple App to use the MERN Stack.
+A simple app to use the MERN stack.
 
 ```code
 M = MongoDB
